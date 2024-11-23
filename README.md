@@ -1,6 +1,6 @@
 # Ex.4   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 26/10/24
+### DATE: 24/9/24
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -35,11 +35,12 @@
 ![Screenshot 2024-10-26 111323](https://github.com/user-attachments/assets/88698a13-827e-4961-b348-3bfb884a8dcb)
 
 ### Output:
-![drone-rev](https://github.com/user-attachments/assets/e99ef7f7-6d0a-4f86-a0bc-095585bbabc5)
+![WhatsApp Image 1946-09-02 at 08 32 45](https://github.com/user-attachments/assets/acacfec2-d6d6-4c03-b330-0a3817ba671c)
 
 
-### Name: Meyyappan T  
-### Register Number: 212223240086
+
+### Name: Vikamuhan reddy 
+### Register Number: 212223240181
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
